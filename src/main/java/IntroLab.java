@@ -46,6 +46,7 @@ public class IntroLab {
      */
 
     public static String shimThom() {
+        //change
         return printLabMessage("Hello", "Thomas", true, "Thomas was here!");
     }
 
